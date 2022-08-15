@@ -1,5 +1,14 @@
 <h1>EVALUACION 1</h1>
 
+<p>Nos metimos a git hub
+clonamos el repositorio del examen.
+Editamos el codigo del wcat
+Luego utilizamos el add
+Miramos con el git status 
+Utilizamos el commit y el git log para ver el estado 
+Luego buscamos en internet como agregar una foto 
+y hasta que el reporte por el momento   </p>
+
 
 
 
