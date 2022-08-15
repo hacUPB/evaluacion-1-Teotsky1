@@ -11,7 +11,7 @@ y hasta que el reporte por el momento   </p>
 
 ![Imagen Teo](https://user-images.githubusercontent.com/111305370/184696346-23661bb1-0b1d-4bc1-899d-026ebeddb3ae.jpg)
 
-
+[NotionCriterios]https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a
 
 
 In this directory, you should write the program `wcat.c` and compile it into
