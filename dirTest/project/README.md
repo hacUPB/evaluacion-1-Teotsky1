@@ -9,6 +9,8 @@ Utilizamos el commit y el git log para ver el estado
 Luego buscamos en internet como agregar una foto 
 y hasta que el reporte por el momento   </p>
 
+![Imagen Teo](https://user-images.githubusercontent.com/111305370/184696346-23661bb1-0b1d-4bc1-899d-026ebeddb3ae.jpg)
+
 
 
 
