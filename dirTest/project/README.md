@@ -13,6 +13,13 @@ y hasta que el reporte por el momento   </p>
 
 [NotionCriterios]https://www.notion.so/Git-Github-y-Github-Classroom-66bd89e15a314e2eb75b913831b4806a
 
+<p>
+1.git clone 
+2.git add
+3.git commit -m "" //para agregar comentario
+4.git push 
+
+</p>
 
 In this directory, you should write the program `wcat.c` and compile it into
 the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
